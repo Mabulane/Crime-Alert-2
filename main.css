@@ -75,12 +75,15 @@ text-align: center;
 display: block;
 
 }
-.bottom-Nav ul li:last-child{
-border-right: none;
-}
+.bottom-Nav ul li  a:first-child{
+
+    padding-left:5px;
+    
+    }
 .bottom-Nav ul li  a {
 display: block;
-padding: 0 24px;
+padding-left:17px;
+padding-right:15px;
 padding-bottom: 20px;
 text-decoration: none;
 color: teal;
